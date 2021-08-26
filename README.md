@@ -7,4 +7,4 @@ Set up:
 3. Run UITestRunner class in runners folder
 4. Results are available in target folder.
 
-Docker image pull command to test in firefox browser: docker pull rahul8854/firefoxtestimage
+**Docker image pull command to test in firefox browser**: docker pull rahul8854/firefoxtestimage
